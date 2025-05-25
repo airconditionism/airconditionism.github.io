@@ -378,3 +378,7 @@ figcaption {
     padding: 15px;
   }
 }
+
+.noClick {
+   pointer-events: none;
+}
