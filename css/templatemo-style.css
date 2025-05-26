@@ -23,6 +23,7 @@ a:focus {
 
 p {
   line-height: 1.8;
+  font-family: "Lucida Console", sans-serif;
 }
 
 .tm-primary-color {
@@ -384,4 +385,8 @@ figcaption {
    -webkit-user-select: none; /* Safari */
    -ms-user-select: none; /* IE 10 and IE 11 */
    user-select: none; /* Standard syntax */
+}
+
+.blurb {
+	text-align: center
 }
